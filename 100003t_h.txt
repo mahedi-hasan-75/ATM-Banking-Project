@@ -1,0 +1,20 @@
+Date: 2019-11-11 Time: 11:53:02 BDT 50000Taka Has Been Deposited To Your Account
+Date: 2019-11-11 Time: 11:56:28 BDT 1500Taka Has Been Deposited To Your Account
+Date: 2019-11-11 Time: 11:57:27 BDT 500Taka Has Been Withdrawn To Your Account
+Date: 2019-11-11 Time: 11:58:47 BDT 1500Taka Has Been Withdrawn To Your Account
+Date: 2019-11-11 Time: 12:00:28 BDT 20000Taka Has Been Withdrawn From Your Account
+Date: 2019-11-11 Time: 12:06:10 BDT 500Taka Has Been Withdrawn To Your Account
+Date: 2019-11-11 Time: 12:19:42 BDT 1000Taka Has Been Deposited To Your Account
+Date: 2019-11-11 Time: 12:20:56 BDT 1000Taka Has Been Withdrawn To Your Account
+Date: 2019-11-11 Time: 12:21:41 BDT 1000Taka Has Been Withdrawn From Your Account
+Date: 2019-11-11 Time: 13:36:10 BDT 1000 Taka Has Been Transferred To Your Account No : 100002
+Date: 2019-11-11 Time: 13:36:44 BDT 1000 Taka Has Been Transferred To Your Account No : 100002
+Date: 2019-11-11 Time: 13:38:07 BDT 100 Taka Has Been Transferred To Your Account No : 100002
+Date: 2019-11-11 Time: 13:48:08 BDT 1000 Taka Has Been Transferred To Your Account No : 100002
+Date: 2019-11-11 Time: 13:51:01 BDT 1000 Taka Has Been Transferred To Your Account No : 100002
+Date: 2019-11-11 Time: 13:59:39 BDT 1000 Taka Has Been Transferred To Your Account No : 100002
+Date: 2019-11-11 Time: 14:01:11 BDT 1000 Taka Has Been Transferred To Your Account No : 100002
+Date: 2019-11-11 Time: 14:02:58 BDT 21900 Taka Has Been Transferred To Your Account No : 100002
+Date: 2019-11-11 Time: 14:07:50 BDT 1000Taka Has Been Deposited To Your Account
+Date: 2019-11-11 Time: 14:08:46 BDT 500Taka Has Been Withdrawn From Your Account
+Date: 2019-11-11 Time: 14:10:07 BDT 100Taka Has Been Withdrawn To Your Account
